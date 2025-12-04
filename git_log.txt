@@ -1,0 +1,71 @@
+commit e63da83d6c20ea392e789b0d6695b1a29a2d4b54
+Author: DexterGanHaoTang <scsj2100495@segi4u.my>
+Date:   Thu Dec 4 11:15:48 2025 +0800
+
+    Delete dummy file
+
+commit c3560a4fd454503b55df136dd4bc4c06b3e67879
+Author: DexterGanHaoTang <scsj2100495@segi4u.my>
+Date:   Thu Dec 4 11:15:21 2025 +0800
+
+    Added system files
+
+commit 30bc489057a82352a081ef11f4a712e51c420235
+Author: DexterGanHaoTang <scsj2100495@segi4u.my>
+Date:   Thu Dec 4 11:12:44 2025 +0800
+
+    Create dummy file
+
+commit 67fca465411dd1ff9036dbcb955c56e2b242dc02
+Author: DexterGanHaoTang <scsj2100495@segi4u.my>
+Date:   Thu Dec 4 11:11:47 2025 +0800
+
+    Delete files
+    
+    Forgot to add commit message
+
+commit 48d6ab8854ad926c1b5623d32c4c5e6ff5ae8c28
+Author: DexterGanHaoTang <scsj2100495@segi4u.my>
+Date:   Thu Dec 4 11:10:35 2025 +0800
+
+    Delete files
+    
+    Forgot to add commit message
+
+commit 4111ed1becdf6ca110f3c0025999652f180d355a
+Author: DexterGanHaoTang <scsj2100495@segi4u.my>
+Date:   Thu Dec 4 11:08:14 2025 +0800
+
+    Delete hackathon/management/system/l
+
+commit fb4224712830217a3586bb044a0c39bf08e95ed8
+Author: DexterGanHaoTang <scsj2100495@segi4u.my>
+Date:   Thu Dec 4 11:07:42 2025 +0800
+
+    Add files via upload
+
+commit 0f56777a5bcdc1fb9f4f24c1fad9a11e5e8ec868
+Author: DexterGanHaoTang <scsj2100495@segi4u.my>
+Date:   Thu Dec 4 11:06:21 2025 +0800
+
+    Create package folders
+
+commit 6832739eb6c7726b460d2c638632a082db9d24e0
+Author: DexterGanHaoTang <scsj2100495@segi4u.my>
+Date:   Thu Dec 4 11:03:04 2025 +0800
+
+    Delete hackathon
+
+commit 236f4c5d25c4ad7c5d89880c13f4f7abd40a3111
+Author: DexterGanHaoTang <scsj2100495@segi4u.my>
+Date:   Thu Dec 4 10:59:26 2025 +0800
+
+    Create hackathon
+
+commit d94ede564463094bd2355afc904f62f585259cc6
+Author: DexterGanHaoTang <scsj2100495@segi4u.my>
+Date:   Thu Dec 4 10:54:55 2025 +0800
+
+    Added CSV files
+    
+    CSV files used for the system. Teams, Scores and Users data.
