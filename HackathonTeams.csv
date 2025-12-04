@@ -1,0 +1,11 @@
+TeamNum,TeamName,University,Category,LeaderID,TeamMembersList,TeamStatus,TeamType,ExtraAtribute
+101,Code Crusaders,SEGI,Artificial Intelligence,C001,Ben Grimm; Reed Richards; Susan Storm; Johnny Storm,Qualified,University,Software Engineering
+102,The Matrix,SUNWAY,Cloud Computing,C002,Keanu Reeves; John Wick; Thomas Anderson; Johnny Utah,Disqualified,University,Data Science
+103,SkyNet,UTM,Mobile Development,C003,John Connor; Sarah Connor; Kyle Reese; Kate Connor,Qualified,University,Cyber Security
+104,Cyber Ninjas,APU,IoT,C004,Leonardo Turtle; Raphael Turtle; Donatello Turtle; Michaelangelo Turtle,Qualified,University,Electronic Engineering
+105,TRON,SEGI,Cloud Computing,C005,Kevin Flynn; Sam Flynn; Alan Bradley; Ed Dillinger,Qualified,University,Creative Multimedia
+106,Code Wizards,SEGI,Mobile Development,C006,Gandalf Grey; Albus Dumbledore; Saruman White; Stephen Strange,Qualified,Professional,Independent
+107,Mega Coders,SUNWAY,Artificial Intelligence,C007,Thomas Light; Rock Light; Roll Light; Albert Wiley,Qualified,Professional,Telekom Malaysia
+108,Code Hackers,UTM,IoT,C008,Kevin Mitnick; Albert Gonzalez; Gary Mckinnon; Michael Calce,Disqualified,Professional,Grab Holdings
+109,CodeStation,APU,Artificial Intelligence,C009,Neptune Purple; Noire Black; Blanc White; Vert Green,Qualified,Professional,Axiata Digital
+110,CodeBox,APU,Mobile Development,C010,John Cena; Randy Orton; Dwayne Johnson; Hulk Hogan,Disqualified,Professional,Fusionex

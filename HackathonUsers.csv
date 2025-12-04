@@ -1,0 +1,15 @@
+UserID,UserName,Email,Password,UserType,FirstName,MiddleName,LastName
+C001,Doom,vondoom@gmail.com,pass123,Competitor,Victor,Von,Doom
+C002,Constantine,constantine@gmail.com,pass123,Competitor,John,,Constantine
+C003,Dyson,dyson@gmail.com,pass123,Competitor,Miles,J,Dyson
+C004,Splinter,splint@gmail.com,pass123,Competitor,Splinter,T,Turtle
+C005,Tron,tron@gmail.com,pass123,Competitor,Tron,R,Flynn
+C006,Merlin,merlin@gmail.com,pass123,Competitor,Merlin,A,Fay
+C007,ProtoMan,proto@gmail.com,pass123,Competitor,Blue,P,Light
+C008,Steve,woz@gmail.com,pass123,Competitor,Steve,,Wozniak
+C009,Histy,histy@gmail.com,pass123,Competitor,Histoire,P,Planeptune
+C010,Austin,austin@gmail.com,pass123,Competitor,Steve,,Austin
+S001,Staff,staff@gmail.com,pass123,Staff,Staff,,Staff
+E001,EventStaff,event@gmail.com,pass123,EventStaff,EventStaff,,EventStaff
+J001,Judge,judge@gmail.com,pass123,Judge,Judge,,Judge
+O001,Organizer,organizer@gmail.com,pass123,Organizer,Organizer,,Organizer
